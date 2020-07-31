@@ -6,7 +6,7 @@
 
 *Another information of 2049BBS's owner(Ciao/"Xiao er",real name Cai Wei),please view [HRW's report](https://www.hrw.org/news/2020/07/22/silenced-china-archivists).*
 
-The Chinese original text below the English translate.(This simple translate version crated by this fork's owner himself.)
+The Chinese original text below the English translate.(This is simple translated version created by this fork's owner himself)
 
 # 2049BBS 镜像站, 记录自由人的最后精神角落
 
