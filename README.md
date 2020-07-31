@@ -1,10 +1,12 @@
 # A Mirrior Site of 2049BBS,a freedom BBS in Chinese
 2049BBS's owner *Ciao/"Xiao er"/"Liulian"(The name in Chinese means a fruit -- "Durian")* (real name Cai Wei (Chinese"蔡伟") ) was jailed in April 19,2020
 ~~This website  control by PRC government,**please visit it by Tor(The Onion Roter)**~~
+
 **NOTE BY THIS FORK ONWER:2049bbs was been took down in July 21,2020 by PRC government,although I'm not a user in this website.And I know this website is only by a political events in another website MOHU([JianjiaCangcang's "dead"](https://archive.is/0YpMm)).Therefore,I backup this repository is by only my sense of responsibility(Like the youth in Tiananmen Square ,He said:"Why?It's my duty").Because PRC government was deleted 2049bbs on July 21,2020.So I think the meta repository may be delete later,then I forked the meta repository.**
 
 *Another information of 2049BBS's owner(Ciao/"Xiao er",real name Cai Wei),please view [HRW's report](https://www.hrw.org/news/2020/07/22/silenced-china-archivists).*
 
+The Chinese original text below the English translate.(This simple translate version crate by this fork's owner himself.)
 
 # 2049BBS 镜像站, 记录自由人的最后精神角落
 
