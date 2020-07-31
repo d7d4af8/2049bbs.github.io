@@ -1,3 +1,10 @@
+# A Mirrior Site of 2049BBS,a freedom BBS in Chinese
+2049BBS's owner *Ciao/"Xiao er"/"Liulian"(The name in Chinese means a fruit -- "Durian")* (real name Cai Wei (Chinese"蔡伟") ) was jailed in April 19,2020
+~~This website  control by PRC government,**please visit it by Tor(The Onion Roter)**~~
+**NOTE BY THIS FORK ONWER:2049bbs was been took down in July 21,2020 by PRC government,although I'm not a user in this website.And I know this website is only by a political events in another website MOHU([JianjiaCangcang's "dead"](https://archive.is/0YpMm)).Therefore,I backup this repository is by only my sense of responsibility(Like the youth in Tiananmen Square ,He said:"Why?It's my duty").Because PRC government was deleted 2049bbs on July 21,2020.So I think the meta repository may be delete later,then I forked the meta repository.**
+
+*Another information of 2049BBS's owner(Ciao/"Xiao er",real name Cai Wei),please view [HRW's report](https://www.hrw.org/news/2020/07/22/silenced-china-archivists).*
+
 
 # 2049BBS 镜像站, 记录自由人的最后精神角落
 
@@ -7,9 +14,7 @@
 
 **本分支维护者注：2049bbs已于2020年7月21日（UTC+8）彻底无法访问，[尽管本维护者与2049bbs并无任何交集](https://www.mohu.rocks/article/item_id-19846)，得知该网站的存在也仅仅是由于膜乎里曾经发生过的一起政治风波（[蒹葭苍苍事件](https://archive.is/0YpMm)），备份该项目仅仅出自于我的责任心，但还是为2049bbs送上一句Rest in peaces，因此为避免此项目重蹈2049bbs主站的覆辙，故建立本分支，另提醒能够看到本项目的Github用户，请务必不要使用有暴露自身信息风险的账户进行敏感操作（包括但不限于关注、Star以及fork），一定要在保证自身足够安全的前提下再进行操作！安全第一！**
 
-
-
-![](https://cdn.i-scmp.com/sites/default/files/d8/images/methode/2020/04/25/ec9e9fda-86fa-11ea-8863-2139a14b0dea_image_hires_222451.JPG)
+[](https://cdn.i-scmp.com/sites/default/files/d8/images/methode/2020/04/25/ec9e9fda-86fa-11ea-8863-2139a14b0dea_image_hires_222451.JPG)
 
 <small>图片来源：[South China Morning Post](https://www.scmp.com/news/china/politics/article/3081569/chinese-activists-detained-after-sharing-censored-coronavirus)</small>
 
