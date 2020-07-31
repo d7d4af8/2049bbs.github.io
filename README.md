@@ -1,8 +1,8 @@
 # A Mirrior Site of 2049BBS,a freedom BBS in Chinese
-2049BBS's owner *Ciao/"Xiao er"/"Liulian"(The name in Chinese means a fruit -- "Durian")* (real name Cai Wei (Chinese"蔡伟") ) was jailed in April 19,2020
-~~This website  control by PRC government,**please visit it by Tor(The Onion Roter)**~~
+2049BBS's owner *Ciao/"Xiao er"/"Liulian"(The name means a fruit -- "Durian" in Chinese)* (real name Cai Wei (Chinese name"蔡伟") ) [was jailed]((https://twitter.com/southern_idiot/status/1253970069756850179?)) in April 19,2020
+~~This website may [be controled by PRC government](https://2049bbs.github.io/t/4544).**So,please visit it by Tor(The Onion Router)**~~
 
-**NOTE BY THIS FORK ONWER:2049bbs was been took down in July 21,2020 by PRC government,although I'm not a user in this website.And I know this website is only by a political events in another website MOHU([JianjiaCangcang's "dead"](https://archive.is/0YpMm)).Therefore,I backup this repository is by only my sense of responsibility(Like the youth in Tiananmen Square ,He said:"Why?It's my duty").Because PRC government was deleted 2049bbs on July 21,2020.So I think the meta repository may be delete later,then I forked the meta repository.**
+**NOTE BY THIS FORK ONWER:2049bbs was been took down in July 21,2020 by PRC government.Although I'm not a user in this website.And I know this website is only by a political events in another website MOHU([JianjiaCangcang's "dead"](https://archive.is/0YpMm)).Therefore,I backup this repository is by only my sense of responsibility(Like the youth in Tiananmen Square ,He said:"Why?It's my duty").Because PRC government was deleted 2049bbs on July 21,2020.So I think the meta repository may be delete later,then I forked the meta repository.**
 
 *Another information of 2049BBS's owner(Ciao/"Xiao er",real name Cai Wei),please view [HRW's report](https://www.hrw.org/news/2020/07/22/silenced-china-archivists).*
 
@@ -10,7 +10,7 @@ The Chinese original text below the English translate.(This simple translate ver
 
 # 2049BBS 镜像站, 记录自由人的最后精神角落
 
-2049bbs 的站长 Ciao/榴梿/小二 （真名蔡伟） [确认](https://www.scmp.com/news/china/politics/article/3081569/chinese-activists-detained-after-sharing-censored-coronavirus)在 2020年4月19日 [被捕](https://twitter.com/southern_idiot/status/1253970069756850179)。
+2049bbs 的站长 Ciao/榴梿/小二 （真名蔡伟） [确认](https://www.scmp.com/news/china/politics/article/3081569/chinese-activists-detained-after-sharing-censored-coronavirus)在 2020年4月19日 [被捕](https://twitter.com/southern_idiot/status/1253970069756850179?)。
 
 ~~论坛[很有可能已被共产党接管](https://2049bbs.github.io/t/4544)， **请全程使用Tor访问主站**。~~
 
