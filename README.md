@@ -2,9 +2,13 @@
 2049BBS's owner *Ciao/"Xiao er"/"Liulian"(The name means a fruit -- "Durian" in Chinese)* (real name Cai Wei (Chinese name"蔡伟") ) [was jailed]((https://twitter.com/southern_idiot/status/1253970069756850179?)) in April 19,2020
 ~~This website may [be controlled by PRC government](https://2049bbs.github.io/t/4544).**So,please visit it by Tor(The Onion Router)**~~
 
-**NOTE BY THIS FORK ONWER:2049bbs was been took down in July 21,2020 by PRC government.Although I'm not a user in this website.And I know this website is only by a "political events" in another website MOHU(["JianjiaCangcang's 'dead'"](https://archive.is/0YpMm),a Mohu/Pincong user was banned for talk about *Cai Wei* was jailed.I think it was quipped Pincong's "Freedom".).Therefore,I backup this repository is by only my sense of responsibility(Like the youth in Tiananmen Square ,He said:"Why?It's my duty").Because PRC government was deleted 2049bbs on July 21,2020.So I think the meta repository may be delete later,then I forked the meta repository.**
+**NOTE BY THIS FORK OWNER:2049bbs was been took down in July 21,2020 by PRC government.Although I'm not a user in this website.And I know this website is only by a "political events" in another website MOHU(["JianjiaCangcang's 'dead'"](https://archive.is/0YpMm),a Mohu/Pincong user was banned for talk about *Cai Wei* was jailed.I think it was quipped Pincong's "Freedom".).Therefore,I backup this repository is by only my sense of responsibility(Like the youth in Tiananmen Square ,He said:"Why?It's my duty").Because PRC government was deleted 2049bbs on July 21,2020.So I think the meta repository may be delete later,then I forked the meta repository.**
 
 *Another information of 2049BBS's owner(Ciao/"Xiao er",real name Cai Wei),please view [HRW's report](https://www.hrw.org/news/2020/07/22/silenced-china-archivists).*
+ 
+[](https://cdn.i-scmp.com/sites/default/files/d8/images/methode/2020/04/25/ec9e9fda-86fa-11ea-8863-2139a14b0dea_image_hires_222451.JPG)
+
+<small>Picture Source：[South China Morning Post](https://www.scmp.com/news/china/politics/article/3081569/chinese-activists-detained-after-sharing-censored-coronavirus)</small>
 
 The Chinese original text is under the English translate.(This is simple translated version created by this fork's owner himself)
 
